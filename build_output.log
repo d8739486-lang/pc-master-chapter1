@@ -1,0 +1,20 @@
+
+> build
+> tsc && vite build
+
+[36mvite v8.0.1 [32mbuilding client environment for production...[36m[39m
+[2Ktransforming...
+/textures/ui/stripe.png referenced in /textures/ui/stripe.png didn't resolve at build time, it will remain unchanged to be resolved at runtime
+✓ 2158 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.52 kB │ gzip:   0.34 kB
+dist/assets/index-Cq-gpBSk.css  124.73 kB │ gzip:  17.59 kB
+dist/assets/index-BSuk6S7j.js   553.03 kB │ gzip: 165.50 kB
+
+[32m✓ built in 581ms[39m
+[33m[plugin builtin:vite-reporter] 
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rolldownOptions.output.codeSplitting to improve chunking: https://rolldown.rs/reference/OutputOptions.codeSplitting
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.[39m

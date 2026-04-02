@@ -1,0 +1,7 @@
+src/features/Chapters/Chapter2/Chapter2Desktop.tsx(101,68): error TS2304: Cannot find name 'RefreshCw'.
+src/features/Chapters/Chapter2/Chapter2Desktop.tsx(128,57): error TS2322: Type '{ children: Element[]; drag: true; dragConstraints: RefObject<HTMLDivElement | null>; dragHandle: string; initial: { scale: number; opacity: number; }; animate: { ...; }; exit: { ...; }; className: string; }' is not assignable to type 'IntrinsicAttributes & Omit<HTMLMotionProps<"div">, "ref"> & RefAttributes<HTMLDivElement>'.
+  Property 'dragHandle' does not exist on type 'IntrinsicAttributes & Omit<HTMLMotionProps<"div">, "ref"> & RefAttributes<HTMLDivElement>'.
+src/features/ClickerZone.tsx(2,45): error TS2724: '"@/core/audio"' has no exported member named 'playMenuSound'. Did you mean 'playSound'?
+src/features/SplashScreen.tsx(12,41): error TS2339: Property 'REMAKE' does not exist on type '{ BIOS_ERROR: string; BSOD: string; BUTTON: string; BUY: string; CLICK: string; ERROR: string; MENU_SFX: string; PANEL: string; REMAKE_TEXT: string; UNBUY: string; XP_SHUTDOWN: string; XP_STARTUP: string; MUSIC_MENU: string; MUSIC_STAGE_1: string; MUSIC_STAGE_2: string; MUSIC_STAGE_3: string; }'.
+src/features/StartMenu.tsx(5,10): error TS2724: '"@/core/audio"' has no exported member named 'playMenuSound'. Did you mean 'playSound'?
+src/features/TopPanel.tsx(5,43): error TS2724: '"@/core/audio"' has no exported member named 'playMenuSound'. Did you mean 'playSound'?

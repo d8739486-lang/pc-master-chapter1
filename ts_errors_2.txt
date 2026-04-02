@@ -1,0 +1,3 @@
+src/features/ClickerZone.tsx(2,45): error TS2724: '"@/core/audio"' has no exported member named 'playMenuSound'. Did you mean 'playSound'?
+src/features/SplashScreen.tsx(12,41): error TS2339: Property 'REMAKE' does not exist on type '{ BIOS_ERROR: string; BSOD: string; BUTTON: string; BUY: string; CLICK: string; ERROR: string; MENU_SFX: string; PANEL: string; REMAKE_TEXT: string; UNBUY: string; XP_SHUTDOWN: string; XP_STARTUP: string; MUSIC_MENU: string; MUSIC_STAGE_1: string; MUSIC_STAGE_2: string; MUSIC_STAGE_3: string; }'.
+src/features/StartMenu.tsx(5,10): error TS2724: '"@/core/audio"' has no exported member named 'playMenuSound'. Did you mean 'playSound'?
