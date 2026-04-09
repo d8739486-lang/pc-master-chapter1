@@ -47,9 +47,7 @@ export const StartMenu = () => {
           <h1 className="text-7xl font-black glow-text tracking-tight uppercase text-matrix scale-y-110">
             {t('menu.title')}
           </h1>
-          <p className="text-xl mt-4 opacity-100 uppercase tracking-[0.4em] font-mono text-white/50">
-            - Remake -
-          </p>
+
         </div>
 
         <div className="flex flex-col items-center gap-6">

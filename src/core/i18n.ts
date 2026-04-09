@@ -4,7 +4,7 @@ export const translations = {
   en: {
     menu: {
       title: "Workshop CLICKER",
-      subtitle: "- Remake -",
+      subtitle: "",
       start: "Start Adventure",
       watch_teaser: "Watch teaser again",
       teaser: "[ Watch teaser again ]",
@@ -523,7 +523,7 @@ export const translations = {
   ru: {
     menu: {
       title: "Мастерская КЛИКЕР",
-      subtitle: "- Remake -",
+      subtitle: "",
       start: "Начать приключение",
       watch_teaser: "Посмотреть тизер заново",
       teaser: "[ Посмотреть тизер заново ]",

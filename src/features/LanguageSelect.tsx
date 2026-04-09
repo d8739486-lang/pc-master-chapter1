@@ -57,7 +57,7 @@ export const LanguageSelect = () => {
 
       <div className="absolute bottom-8 left-0 w-full text-center">
         <p className="text-[10px] uppercase font-mono tracking-widest text-white/10">
-          PC Master Remake | Initial Handshake
+          PC Master | Initial Handshake
         </p>
       </div>
     </div>
