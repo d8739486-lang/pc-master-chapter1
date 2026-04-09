@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+.agent/
+*.log
+tsc.log
+ts_errors.txt
+ts_errors_2.txt
+ts_final.txt
